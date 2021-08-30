@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages
-#Jason Bodzy's First CS193 Homework
+# Jason Bodzy's First CS193 Homework
+
+**Things I Like About CS193**
+- It's at Purdue!
+- The room has A/C
+- We learn about useful tools
+- We used vim
+- Coding is fun
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
